@@ -3,7 +3,7 @@
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
-            "mugaco\\HelloWorldPackage\\": "src/"
+            "Mugaco\\HelloWorldPackage\\": "src/"
         }
     },
     "minimum-stability": "dev",
