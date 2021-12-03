@@ -6,6 +6,6 @@ class HelloWorld
 {
     public static function sayHello()
     {
-        echo "Hello World Juan Andrés";
+        echo "Hello World Version 2.0";
     }
 }
